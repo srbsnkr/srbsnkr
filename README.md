@@ -15,7 +15,7 @@ architecture across diverse domains including healthcare, e-commerce, inventory 
 
 ## Certifications
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45954152" width="100">
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8284db6-b427-468d-ad35-96ff5af9518e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46779103" width="100">
 </div>
 <br>
