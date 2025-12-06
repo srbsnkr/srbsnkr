@@ -14,7 +14,9 @@ architecture across diverse domains including healthcare, e-commerce, inventory 
 <br>
 
 ## Certifications
-<img width="52" height="52" alt="associate-cloud-engineer-certification" src="https://github.com/user-attachments/assets/6165e116-7c8f-433e-a0e9-0912288b27e4" />
+<img width="104" height="104" alt="associate-cloud-engineer-certification" src="https://github.com/user-attachments/assets/6165e116-7c8f-433e-a0e9-0912288b27e4" />
+<img width="104" height="104" alt="professional-cloud-architect-certification" src="https://github.com/user-attachments/assets/bf0b3a5a-61ba-4602-97ee-254060d614be" />
+
 
 <br>
 
