@@ -14,10 +14,8 @@ architecture across diverse domains including healthcare, e-commerce, inventory 
 <br>
 
 ## Certifications
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8284db6-b427-468d-ad35-96ff5af9518e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46779103" width="100">
-</div>
+<img width="52" height="52" alt="associate-cloud-engineer-certification" src="https://github.com/user-attachments/assets/6165e116-7c8f-433e-a0e9-0912288b27e4" />
+
 <br>
 
 You can connect me at:
