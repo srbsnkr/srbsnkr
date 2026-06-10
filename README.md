@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11E8F7&width=435&lines=Technical+Architect++%7C+Project+Lead;13%2B+Years+in+Scalable+System+Design+;Cloud-Native+solution+provider;Full+Stack+Solutions+provider;GCP+%7C+JAVA+%7C+Spring+Boot+%7C+ReactJS+%7C+Angular+%7C+Python)](https://git.io/typing-svg)
 
 
-Accomplished Project Lead (Acting Technical Architect) with 12+ years of hands-on experience in full-cycle web application development, cloud-native solutions, and enterprise-grade system 
+Accomplished Project Lead (Acting Technical Architect) with 13+ years of hands-on experience in full-cycle web application development, cloud-native solutions, and enterprise-grade system 
 architecture across diverse domains including healthcare, e-commerce, inventory management, and real-time systems. 
 
 <br>
